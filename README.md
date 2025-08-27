@@ -1,4 +1,7 @@
-# Hi, I'm Luana ![Profile-photo](luana.jpeg)
+# Hi, I'm Luana !
+<p align="center">
+  <img src="luana.png" alt="Luana memoji" width="300">
+</p>
 
 **Full Stack Software Engineer** with 4 years of professional experience, including completion of the [Codeworks](https://codeworks.me/) Software Engineering Immersive Bootcamp. Skilled **Node.js, TypeScript, React, Express, and MongoDB**, and have experience in deploying production-ready applications on **Vercel**. Background includes **PostgreSQL, MySQL, Python, and Angular, Java, C++, Swift**.  
 I focus on building **scalable, maintainable, and reliable systems** with clean code, automation, and a strong eye for efficiency.  
